@@ -1,0 +1,15 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+SQLAlchemy==2.0.19
+psycopg2-binary==2.9.7
+pydantic==1.10.12
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+celery==5.3.1
+redis==4.5.5
+scikit-learn==1.2.2
+pandas==2.1.2
+numpy==1.26.2
+httpx==0.24.1
+pytest==7.4.3
+pytest-asyncio==0.21.1
